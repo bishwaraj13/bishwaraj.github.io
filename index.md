@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## Hello there, looks like I have a visitor today
 
-You can use the [editor on GitHub](https://github.com/bishwaraj13/bishwaraj.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+ “Data! data! data!”, Sherlock cried impatiently. “I cannot make bricks without clay.” -Arthur Conan Doyle
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Why Data Science, you ask? Cause I can be Sherlock 🔍 in the data universe. I find it interesting to solve problems. I am driven by intellectual curiosity to demystify underlying patterns, insights and innovate something out of data. Well, my love for data and fiction has to be blamed for such surreal analogy.
 
-### Markdown
+With 4 years of industry experience, I bring with me the competence to help leverage machine learning algorithms to solve business problems. I have been involved with various Machine Learning algorithms, Classical Computer Vision techniques, Sequence Models (NLP), and advanced data analysis.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+MY SUPERPOWERS
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+✔ I am good at public speaking. Presentation or demonstration? I am the guy.
+✔ I am good at approaching problems. I plan, strategise and always have at least one approximate idea on how can any problem be solved.
+✔ I am good at breaking down almost everything I know, in an intelligible way, be it to non - technical audience. That said, I can break down ML and Statistical concepts in layman terms, to just anybody.
 
-```markdown
-Syntax highlighted code block
+ANALYTICAL SKILLS
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+✔ Modelling, Data Science, Machine Learning, Deep Learning
+✔ Python development: Pandas, Scikit-learn, TensorFlow, Keras, OpenCV, nltk
+✔ Visualisation: Matplotlib, Seaborn
+✔ Data querying: SQL
+✔ Computer Vision
+✔ Natural Language Processing
 
-# Header 1
-## Header 2
-### Header 3
+MANAGEMENT SKILLS 
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+✔ Good communication
+✔ Agile development
+✔ Team player
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bishwaraj13/bishwaraj.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+When I am not working, I am reading 📖. I am an avid reader and have a thing for historical fictions and lyrical prose.
+🔗  https://www.goodreads.com/bishwaraj
